@@ -1,0 +1,12 @@
+$
+deutsche mark
+dlrs
+dm
+dollar
+franc
+frf
+gbp
+jpy
+pound
+usd
+yen

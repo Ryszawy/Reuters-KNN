@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="700.0" prefWidth="1300.0" xmlns="http://javafx.com/javafx/10.0.2-internal"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="pl.ksr.view.PrimaryController"
+            stylesheets="@style.css"
+>
+    <children>
+        <ToolBar fx:id="toolbar" layoutX="0.0" layoutY="0.0" prefHeight="700.0" prefWidth="230.0"/>
+        <Label
+                layoutX ="4.0" layoutY="10.0"
+                prefHeight="30.0" prefWidth="220.0"
+        text="Vector Features"
+        fx:id="tileLabel"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="60.0"
+                prefHeight="30.0" prefWidth="220.0"
+        fx:id="currenciesInText"
+                text="currenciesInText"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="100.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="countriesInTitle"
+                text="countriesInTitle"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="140.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="firstFromDictionaryInTitle"
+                text="firstFromDictionaryInTitle"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="180.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="country"
+                text="country"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="220.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="land"
+                text="land"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="260.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="person"
+                text="person"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="300.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="company"
+                text="company"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="340.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="longestWord"
+                text="longestWord"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="380.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="longestWordFromDictionary"
+                text="longestWordFromDictionary"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="420.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="lastWordFromDictionary"
+                text="lastWordFromDictionary"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="460.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="bigLetterCount"
+                text="bigLetterCount"
+                selected="true"/>
+        <CheckBox
+                layoutX ="4.0" layoutY="500.0"
+                prefHeight="30.0" prefWidth="220.0"
+                fx:id="dictionaryCount"
+                text="dictionaryCount"
+                selected="true"/>
+
+        <Button  layoutX ="4.0" layoutY="540.0"
+                 prefHeight="30.0" prefWidth="220.0"
+                 text="Save"
+                 fx:id="saveButton"
+                 onAction="#onSaveClick"
+        />
+
+        <Button  layoutX ="4.0" layoutY="610.0"
+                 prefHeight="30.0" prefWidth="220.0"
+                 text="Load"
+                 fx:id="loadButton"
+                 onAction="#onLoadClick"
+        />
+        <Label layoutX ="270.0" layoutY="50.0"
+               prefHeight="30.0" prefWidth="250.0"
+               text="K Value"
+        />
+        <TextField layoutX ="520.0" layoutY="50.0"
+               prefHeight="30.0" prefWidth="300.0"
+                   fx:id="kTextField"/>
+
+        <Label layoutX ="270.0" layoutY="130.0"
+               prefHeight="30.0" prefWidth="250.0"
+               text="Selected Metric"/>
+
+        <ComboBox layoutX ="520.0" layoutY="130.0"
+                  prefHeight="30.0" prefWidth="300.0"
+        fx:id="metricSelector"/>
+
+        <Label layoutX ="270.0" layoutY="210.0"
+               prefHeight="30.0" prefWidth="250.0"
+               text="Similarity Measure"/>
+
+
+        <ComboBox layoutX ="520.0" layoutY="210.0"
+                  prefHeight="30.0" prefWidth="300.0"
+                  fx:id="similaritySelector"/>
+
+        <Label layoutX ="270.0" layoutY="290.0"
+               prefHeight="30.0" prefWidth="250.0"
+               text="Dataset Division"/>
+
+        <Slider layoutX ="520.0" layoutY="290.0"
+                prefHeight="30.0" prefWidth="300.0"
+                fx:id="slider"
+                showTickLabels="true"
+                showTickMarks="true"/>
+        <Label layoutX ="520.0" layoutY="380.0"
+               prefHeight="30.0" prefWidth="200.0"
+             text="Learning Set"/>
+        <Label layoutX ="720.0" layoutY="380.0"
+                prefHeight="30.0" prefWidth="90.0"
+                fx:id="learningLabel"/>
+        <Label layoutX ="520.0" layoutY="440.0"
+               prefHeight="30.0" prefWidth="200.0"
+               text="Test Set"/>
+        <Label layoutX ="720.0" layoutY="440.0"
+               prefHeight="30.0" prefWidth="90.0"
+               fx:id="testLabel"/>
+
+
+        <ProgressBar
+                layoutX="350.0" layoutY="500.0"
+                prefHeight="50.0" prefWidth="400.0"
+                fx:id="progressBar"
+                visible="false"
+        />
+
+        <Label
+            layoutX="520.0" layoutY="500.0"
+            prefHeight="50.0" prefWidth="400.0"
+            fx:id="progressLabel"
+            visible="true"/>
+
+
+        <Button
+                layoutX="350.0" layoutY="560.0"
+                prefHeight="80.0" prefWidth="400.0"
+                text="Classify"
+                fx:id="classifyButton"
+                onAction="#onClassifyClick"/>
+        <AnchorPane fx:id="pane" layoutX="880.0" layoutY="0.0" prefHeight="700.0" prefWidth="460.0"/>
+
+        <Label layoutX ="1020.0" layoutY="10.0"
+               prefHeight="30.0" prefWidth="200.0"
+               text="Last Results:"
+               style="-fx-font-size: 30px; -fx-text-fill: white"
+        />
+    </children>
+
+
+
+
+</AnchorPane>

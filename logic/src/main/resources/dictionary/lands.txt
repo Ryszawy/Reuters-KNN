@@ -1,0 +1,450 @@
+Aachen
+Abbotsford
+Aberdeen
+Airdrie
+Alabama
+Alaska
+Albany
+Alberta
+Albuquerque
+Alsace
+Amagasaki
+American
+American Samoa
+Annapolis
+Appalachia
+Aquitaine
+Arizona
+Arkansas
+Arlington Texas
+Atlanta
+Augusta
+Austin
+Auvergne
+Avignon
+Baltimore
+Barnsley
+Barrie
+Baton Rouge
+Bavaria
+Belfast
+Belleville
+Beloeil
+Berlin
+Birkenhead
+Bismarck
+Blackpool
+Boise
+Bonn
+Bonn Republic
+Bordeaux
+Border States
+Boston
+Bournemouth
+Bowmanville - Newcastle
+Brandon
+Brantford
+Bremen
+Brighton and Hove
+Bristol
+British
+British Columbia
+Brittany
+Brooklyn
+Bundesrepublik Deutschland
+Burgundy
+Burnley
+Bethune
+Calgary
+California
+Cambridge
+Canadian
+Cardiff
+Carson City
+Centre-Val de Loire
+Champagne-Ardenne
+Charleston
+Charlotte
+Charlottetown
+Chatham
+Cheyenne
+Chiba
+Chicago
+Chicoutimi - Jonquière
+Chilliwack
+Chateauguay
+Cologne
+Colorado
+Colorado River
+Colorado Springs
+Columbia
+Columbia River
+Columbus
+Concord
+Connecticut
+Cornwall
+Corsica
+Courtenay
+Coventry
+Crawley
+Dallas
+Delaware
+Denver
+Derby
+Des Moines
+Detroit
+Dixie
+Doncaster
+Dortmund
+Douai-Lens
+Dover
+Drummondville
+Dundee
+Dusseldorf
+East North Central States
+Eastern United States
+Edinburgh
+Edmonton
+El Paso
+English
+Essen
+Falkland
+Farnborough
+Federal Republic of Germany
+Florida
+Fort McMurray
+Fort Worth
+Franche-Comté
+Frankfort
+Frankfurt
+Fredericton
+French
+French Guiana
+Fresno
+Fukuoka
+Funabashi
+Georgetown
+Georgia
+Gifu
+Gloucester
+Granby
+Grande Prairie
+Great Basin
+Greater Glasgow
+Grenoble
+Guadeloupe
+Guam
+Guelph
+Hachioji
+Halifax
+Hamamatsu
+Hamburg
+Hamilton
+Hanover
+Harrisburg
+Hartford
+Hawaii
+Helena
+Hesse
+Higashi-Osaka
+Himeji
+Hiroshima
+Hokkaido
+Honolulu
+Honshu
+Houston
+Hudson Bay
+Hudson River
+Ichikawa
+Idaho
+Illinois
+Indiana
+Indianapolis
+Inland Empire (Washington and Idaho)
+Iowa
+Ipswich
+Jacksonville
+Japanese
+Jefferson City
+Joliette
+Juneau
+Kagoshima
+Kamloops
+Kanata
+Kanazawa
+Kansas
+Kansas City
+Kawaguchi
+Kawasaki
+Kelowna
+Kentucky
+Kingston
+Kingston upon Hull
+Kitakyushu
+Kitchener
+Kobe
+Koblenz
+Kumamoto
+Kurashiki
+Kyoto
+Kyushu
+Languedoc-Roussillon
+Lansing
+Las Vegas
+Leicester
+Lethbridge
+Lille
+Limousin
+Lincoln
+Little Rock
+Liverpool
+London
+London
+Long Beach
+Lorraine
+Los Angeles
+Louisiana
+Louisville
+Lower Normandy
+Luton
+Lyon
+Mackenzie River
+Madison
+Maine
+Mainz
+Malvinas
+Manchester
+Manitoba
+Mansfield
+Marseille-Aix-en-Provence
+Martinique
+Maryland
+Massachusetts
+Matsudo
+Matsuyama
+Mayotte
+Medicine Hat
+Medway Towns
+Memphis
+Mesa
+Miami
+Michigan
+Mid-Atlantic States
+Midi-Pyrénées
+Milton
+Milton Keynes
+Milwaukee
+Minneapolis
+Minnesota
+Mississippi
+Mississippi River
+Missouri
+Missouri River
+Moncton
+Montana
+Montgomery
+Montpelier
+Montpellier
+Montreal
+Mount Fuji
+Mountain States
+Nagasaki
+Nagoya
+Nanaimo
+Nantes
+Nashville
+Nebraska
+Nelson River
+Nerima
+Nevada
+New Brunswick
+New England
+New Hampshire
+New Jersey
+New Mexico
+New Orleans
+New York
+New York
+Newfoundland and Labrador
+Newport
+Nice-Cannes
+Niigata
+Nishinomiya
+Nord-Pas-de-Calais
+Normandy
+North Bay
+North Carolina
+North Dakota
+Northampton
+Norwich
+Nottingham
+Nova Scotia
+Oakland
+Ohio
+Oita
+Okayama
+Okinawa
+Oklahoma
+Oklahoma City
+Olympia
+Omaha
+Omiya
+Ontario
+Oregon
+Osaka
+Osaka Bay
+Oshawa
+Ottawa–Gatineau
+Oxford
+Paris
+Pays de la Loire
+Pennsylvania
+Peterborough
+Peterborough
+Philadelphia
+Phoenix
+Picardy
+Pierre
+Plymouth
+Poitou-Charentes
+Portland Ore
+Preston
+Prince Edward Island
+Prince George
+Provence-Alpes-Côte d'Azur (PACA)
+Providence
+Puerto Rico
+Quebec
+Quebec City
+Raleigh
+Reading
+Red Deer
+Regina
+Region
+Rennes
+Rhode Island
+Rhône-Alpes
+Richmond
+Rio Grande
+Rouen
+Reunion
+Saarbrucken
+Sacramento
+Sagamihara
+Saint John
+Saint Lawrence River
+Saint Paul
+Saint-Hyacinthe
+Saint-Jean-sur-Richelieu
+Saint-Jerome
+Saint-Étienne
+Saitama
+Sakai
+Salaberry-de-Valleyfield
+Salem
+Salt Lake City
+San Antonio
+San Diego
+San Francisco
+San Jose
+Santa Fe
+Sapporo
+Sarnia
+Saskatchewan
+Saskatoon
+Sault Ste. Marie
+Saxony
+Scottish
+Sea of Japan
+Seattle
+Sendai
+Setagaya
+Sheffield
+Sherbrooke
+Shikoku
+Shizuoka
+Slough
+South Atlantic States
+South Carolina
+South Dakota
+South Hampshire
+Southend-on-Sea
+Springfield
+St. Catharines - Niagara Falls
+St. John's
+St. Thomas
+Stoke-on-Trent
+Stolica
+Strasbourg
+Sudbury
+Sunderland
+Swansea
+Swindon
+Tallahassee
+Teesside
+Tennessee
+Texas
+The Burnt-Over District
+The Deep South
+The Dust Bowl
+The East Coast
+The Four Corners
+The Great Plains
+The Midwest
+The Northeast
+The Pacific Northwest
+The Rockies
+The South
+The Southwest
+The West
+The West Coast
+Thunder Bay
+Thuringia
+Tokyo
+Tokyo Bay
+Topeka
+Toronto
+Toulon
+Toulouse
+Tours
+Toyonaka
+Trenton
+Trier
+Trois-Rivieres
+Tucson
+Tulsa
+Tyneside
+Ungava Bay
+Upper Normandy
+Urawa
+Utah
+Utsunomiya
+Valenciennes
+Vancouver
+Vermont
+Vernon
+Victoria
+Victoriaville
+Virgin Islands
+Virginia
+Virginia Beach
+Wakayama
+Warrington
+Washington
+Washington
+Welland - Pelham
+West Midlands
+West Virginia
+West Yorkshire
+White Rock
+Wichita
+Wigan
+Windsor
+Winnipeg
+Wisconsin
+Woodstock
+Wyoming
+Yokohama
+Yokosuka
+York
+Yukon River

@@ -1,0 +1,39 @@
+.tool-bar{
+    -fx-background-color: #640606;
+}
+.label {
+    -fx-font-size: 30px;
+}
+.text-field {
+    -fx-font-size: 30px;
+}
+.combo-box {
+    -fx-font-size: 30px;
+}
+.slider {
+    -fx-font-size: 30px;
+}
+.button {
+    -fx-font-size: 50px;
+}
+.check-box {
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+#tileLabel {
+    -fx-text-fill: white;
+}
+#saveButton {
+    -fx-font-size: 25px;
+}
+#loadButton {
+    -fx-font-size: 25px;
+}
+#pane {
+    -fx-background-color:  #06646F
+}
+
+#progressBar {
+    -fx-accent:  green
+}
+
