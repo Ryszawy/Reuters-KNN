@@ -1,4 +1,4 @@
-# Document Clasyfication KNN
+# Document Classification KNN
 
 ## Description
 
